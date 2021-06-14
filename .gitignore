@@ -80,3 +80,7 @@ __pycache__
 
 # Allow to exist but don't include it in the repo
 user_song_list.h
+keyboards/gmmk/pro/keymaps/bmgolley/keymap.c
+keyboards/gmmk/pro/keymaps/bmgolley/keymap.c
+keyboards/gmmk/pro/rules.mk
+keyboards/gmmk/pro/keymaps/bmgolley/keymap.c

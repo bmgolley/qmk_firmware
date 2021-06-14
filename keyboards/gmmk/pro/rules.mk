@@ -21,6 +21,9 @@ RGBLIGHT_ENABLE = no        # Enable keyboard RGB underglow
 BLUETOOTH_ENABLE = no       # Enable Bluetooth
 AUDIO_ENABLE = no           # Audio output
 ENCODER_ENABLE = yes
+TAP_DANCE_ENABLE = yes
+RAW_ENABLE = yes
+RGB_MATRIX_CUSTOM_USER = yes
 
 RGB_MATRIX_ENABLE = yes
 RGB_MATRIX_DRIVER = AW20216S
